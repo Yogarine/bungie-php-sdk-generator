@@ -1,0 +1,4 @@
+[submodule "Bungie-net/api"]
+	path = Bungie-net/api
+	url = https://github.com/Bungie-net/api.git
+	branch = master
